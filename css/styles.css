@@ -444,11 +444,12 @@ transform: translateY(0);
 .foot {
     background-color: #2E2F42;
     padding: 100px 0;
-}
-.container-foot {
-    display: block;
 
 }
+ .container-foot {
+    display: flex;
+
+} 
 
 .text-two {
     font-size: 16px;
@@ -478,12 +479,24 @@ transform: translateY(0);
     font-family: "Raleway", sans-serif;
 }
 /* ---------------footer social---------------- */
+.footer-social {
+padding-left: 120px;
+} 
+
 .footer-social-text {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.03em;
     color: #FFFFFF;
+}
+.social-media {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 16px;
+    padding-top: 16px;
 }
 .footer-icons {
     fill: #F4F4FD;
