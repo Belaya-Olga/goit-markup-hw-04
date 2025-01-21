@@ -343,58 +343,13 @@ section {
     background-color: #4D5AE5;
     border-radius: 50%;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    fill: #F4F4FD;
 }
 .inst:hover,
 .inst:focus {
     background-color: #404BBF;
 }
-.twit {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100% ;
-    background-color: #4D5AE5;
-    border-radius: 50%;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+.social-ic {
     fill: #F4F4FD;
-}
-.twit:hover,
-.twit:focus {
-    background-color: #404BBF;
- }
-
-.facebook {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    background-color: #4D5AE5;
-    border-radius: 50%;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    fill: #F4F4FD;
-}
-.facebook:hover,
-.facebook:focus {
-    background-color: #404BBF;
-}
-
-.linkedin{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    background-color: #4D5AE5;
-    border-radius: 50%;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    fill: #F4F4FD;
-}
-.linkedin:hover,
-.linkedin:focus {
-    background-color: #404BBF;
 }
 
 .icons{
@@ -561,53 +516,6 @@ transform: translateY(0);
     background-color: #31D0AA;
 }
 
-.footer-twit {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    background-color: #4D5AE5;
-    border-radius: 50%;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.footer-twit:hover,
-.footer-twit:focus {
-    background-color: #31D0AA;
-}
-
-.footer-facebook {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    background-color: #4D5AE5;
-    border-radius: 50%;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.footer-facebook:hover,
-.footer-facebook:focus {
-    background-color: #31D0AA;
-}
-
-.footer-linkedin {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-    background-color: #4D5AE5;
-    border-radius: 50%;
-    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    
-}
 .footer-ic {
     fill: #F4F4FD;
 }
-.footer-linkedin:hover,
-.footer-linkedin:focus {
-    background-color: #31D0AA;
-} 
