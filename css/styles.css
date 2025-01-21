@@ -246,7 +246,6 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 100px;
     background-color: #F4F4FD;
     border: 1px solid rgb(142, 143, 153) ;
     margin-bottom: 8px;
