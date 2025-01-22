@@ -354,7 +354,7 @@ section {
 .icons{
     display: flex;
     gap: 24px;
-    margin-top: 8px auto;
+    margin-top: 8px ;
     justify-content: center;
 
 }
